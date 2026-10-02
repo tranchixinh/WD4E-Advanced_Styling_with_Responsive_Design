@@ -45,6 +45,8 @@ div{
 @media screen and (min-width: 772px) {
     div {
         width: 45%;
+        display: inline-block;
+        vertical-align: top;
     }
 
     img {
@@ -57,7 +59,6 @@ div{
         width: 30%;
     }
 }
-
 
 
 
